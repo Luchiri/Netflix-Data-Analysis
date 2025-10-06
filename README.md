@@ -45,7 +45,7 @@ It’s not just about numbers, but how the story of Netflix’s evolution is tol
 ## 🚀 How to Run  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/<your-username>/Netflix-Data-Analysis.git
+   git clone https://github.com/Luchiri/Netflix-Data-Analysis.git
    cd Netflix-Data-Analysis
 Install dependencies:
 
